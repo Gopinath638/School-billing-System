@@ -50,7 +50,6 @@ void main(void)
     printf("\t|**WELCOME TO C PROGRAM SCHOOL BILLING SYSTEM PROJECT|**\n");
     printf("\n\t|                                                      |\n");
     printf("\t ______________________________________________________\n");
-    printf("\t|    DEVELOPED BY CODE WITH C TEAM                       |\n");
     printf(" \t________________________________________________________\n");
     printf("\t|    *****************************************            |\n");
     printf("\t|    *****************************************            |\n");
